@@ -1,4 +1,4 @@
-Das mir (Leon Schneider) zugeordnete Projekt ist ein Online Geschenkeshop. 
+Das mir (Leon Schneider) zugeordnete Projekt ist ein Schwimmbad Online Geschenkeshop. 
 
 Die Anwendung soll es Benutzern ermöglichen, sich im Online Geschenke Shop zu regristrieeren und anzumelden.
 Ein Produktkatalog für die Kunden mit Such- und Filterfunktion für einfache und bequeme suche von Waren.
