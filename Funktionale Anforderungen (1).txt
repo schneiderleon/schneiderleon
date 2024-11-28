@@ -1,0 +1,13 @@
+1. Benutzerregistrierung und Anmeldung: Das System ermöglicht Nutzern, sich zu registrieren und ein Konto zu erstellen, um ihre Bestellhistorie einzusehen und Bestellungen zu verfolgen. Die Anmeldung erfolgt über E-Mail und Passwort. (10 Stunden)
+
+2. Produktkatalog mit Such- und Filterfunktion: Die Software stellt einen Online-Katalog zur Verfügung, in dem Kunden Produkte nach Kategorien durchsuchen sowie nach Attributen wie Preis, Größe und Verfügbarkeit filtern können. (15 Stunden)
+
+3. Warenkorbsystem und Bestellabwicklung: Kunden können Produkte in einen Warenkorb legen, die Anzahl anpassen und zur Kasse gehen. Die Bestellabwicklung umfasst die Eingabe von Kundeninformationen, Auswahl der Abholmethode und Bestellbestätigung. (20 Stunden)
+
+4. Integration von Zahlungsgateways: Das System unterstützt verschiedene Zahlungsoptionen wie Kreditkarte, PayPal und Sofortüberweisung, um Bestellungen sicher online zu bezahlen. (25 Stunden)
+
+5. Abholbenachrichtigung und E-Mail-Bestätigungen: Nach einer erfolgreichen Bestellung erhalten Kunden eine automatische E-Mail-Bestätigung. Wenn die Bestellung zur Abholung bereit ist, wird eine weitere Benachrichtigung an den Kunden gesendet. (12 Stunden)
+
+6. Verwaltung von Gutscheinen und Rabatten: Das System ermöglicht es dem Administrator, Gutscheincodes zu erstellen und zu verwalten, die Kunden während des Bestellvorgangs einlösen können. (15 Stunden)
+
+7. Benutzerverwaltung für Administratoren: Administratoren können das System verwalten, indem sie Benutzer, Bestellungen und Produkte verwalten, Lagerbestände anpassen und Verkaufsberichte einsehen. (18 Stunden)
